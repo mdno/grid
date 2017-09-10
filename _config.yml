@@ -1,0 +1,24 @@
+name: mdno
+layout_spectrum: 0.5966972928753326
+typography_spectrum: 0.041951452886390656
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.40114633988976334
+  lightness: 0.40432220737606583
+  saturation: 0.9058841796310637
+  rhythmicContrast: 0.4662699829721547
+title: recaps
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
